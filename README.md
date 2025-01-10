@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sri Gayathri Sahithi Morapakala
 - 👀 Learning about data engineering and applied data science concepts through machine learning and artificial intelligence is a subject I'm interested in. 
-- 🌱 I'm a master's student studying engineering science data science  presently.
+- 🌱 Actively seeking fresh grad job oppurtunities in Data Analyst, Data Engineer roles
 - 💞️ I’m looking to collaborate on Projects and internships related to SQL,Python, Machine leanring and artificial intelligence
 - 📫 Reach me at: saisahithi2001@gmail.com, https://www.linkedin.com/in/sri-gayathri-sahithi-morapakala-845124170/
 
