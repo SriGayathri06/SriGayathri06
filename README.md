@@ -24,8 +24,9 @@ Research in AI and predictive modeling
 
 📚 Education
 
-Master's in Data Science/Analytics (or your actual degree)
-Relevant certifications and coursework
+Master's in Data Science
+Bachelors in Computer Science
+
 
 📫 Let's Connect!
 
