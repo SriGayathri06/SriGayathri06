@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sri%20Gayathri%20Sahithi%20Morapakala&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%20Full-Stack%20BI%20%7C%20AWS%20%2B%20Azure%20Certified&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sri%20Gayathri%20Sahithi%20Morapakala&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Data%20Engineer%20%7C%20Full-Stack%20BI%20%7C%20AWS%20%E2%80%A2%20Azure%20%E2%80%A2%20Databricks%20Certified&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&repeat=true&width=800&height=45&lines=From+raw+data+to+real+decisions+%E2%80%94+I+engineer+the+bridge;AWS+%2B+Azure+Certified+%7C+Pipelines+%7C+Dashboards+%7C+ML;I+write+about+what+I+break+first+then+how+I+fix+it" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&repeat=true&width=800&height=45&lines=From+raw+data+to+real+decisions+%E2%80%94+I+engineer+the+bridge;3x+Certified+%7C+AWS+%E2%80%A2+Azure+%E2%80%A2+Databricks;dbt+%2B+Snowflake+%2B+Spark+%E2%80%94+I+build+pipelines+that+scale;I+write+about+what+I+break+first+then+how+I+fix+it" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -26,6 +26,7 @@ location: Seattle, WA
 education: MS Data Science, 2025
 current_focus: Cloud Data Engineering & Full-Stack BI
 previously_at: [Deloitte, Third Estate Analytics]
+certifications: [AWS Data Engineer, Microsoft Fabric, Databricks Data Engineer]
 superpower: Turning messy data into pipelines that scale — and dashboards that tell the story
 fun_fact: I blog about the things I get wrong first, so others don't have to
 ```
@@ -39,16 +40,20 @@ I'm a **Cloud Data Engineer** who builds end-to-end — from raw ingestion to ex
 <div align="center">
 
 <a href="https://www.credly.com/badges/c799c44c-54df-41c7-8a16-0805b0e7a0c5">
-<img src="./assets/aws-data-engineer-associate.png" width="150" alt="AWS Certified Data Engineer – Associate"/>
+<img src="./assets/aws-data-engineer-associate.png" width="140" alt="AWS Certified Data Engineer – Associate"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/api/credentials/share/en-in/SriGayathriSahithiMorapakala-5979/21D4C6EB0BBFD07B?sharingId=4D357618E8D6E49D">
-<img src="./assets/microsoft-fabric-data-engineer.png" width="150" alt="Microsoft Certified: Fabric Data Engineer Associate"/>
+<img src="./assets/microsoft-fabric-data-engineer.png" width="140" alt="Microsoft Certified: Fabric Data Engineer Associate"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://credentials.databricks.com/65bfee64-5304-4c0d-af1c-535827d77fad#acc.bhKnigl8">
+<img src="./assets/databricks-data-engineer-associate.png" width="140" alt="Databricks Certified Data Engineer Associate"/>
 </a>
 
 <br/>
 
-**AWS Certified Data Engineer – Associate (DEA-C01)** &nbsp;&nbsp;•&nbsp;&nbsp; **Microsoft Fabric Data Engineer Associate (DP-700)**
+**AWS Data Engineer (DEA-C01)** &nbsp;•&nbsp; **Microsoft Fabric (DP-700)** &nbsp;•&nbsp; **Databricks Data Engineer Associate**
 
 _Click the badges above to verify_
 
@@ -63,7 +68,8 @@ _Click the badges above to verify_
 | **Domain** | **Technologies** |
 |:---|:---|
 | **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white) |
-| **Data Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
+| **Data Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Data Warehousing** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=delta&logoColor=white) |
 | **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-742774?style=flat-square&logo=microsoft&logoColor=white) |
 | **Backend & APIs** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **ML & AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
@@ -76,6 +82,21 @@ _Click the badges above to verify_
 ## 🚀 Featured Projects
 
 ### ☁️ Cloud Data Engineering
+
+<table>
+<tr>
+<td width="100%">
+
+#### 💰 [FinSight Analytics — dbt + Snowflake ELT Pipeline](https://github.com/SriGayathri06/finsight-dbt) &nbsp; 🔥 NEW
+**dbt Core · Snowflake · SQL · Python · ELT · Medallion Architecture**
+
+Production-grade ELT pipeline for a fintech use case — modeling customer transactions, merchant spend, and finance KPIs across raw → staging → marts layers. Built on Snowflake with dbt Core, featuring data quality tests, full lineage, and a medallion architecture designed to power personal finance dashboards.
+
+📝 **Blog:** [I Built a Production-Grade ELT Pipeline from Scratch — Here's Everything I Learned](https://medium.com/@saisahithi2001/i-built-a-production-grade-elt-pipeline-from-scratch-heres-everything-i-learned-5169b6c19e4e)
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -178,9 +199,13 @@ Production-style microservices API with pagination, validation, full-text search
 <!-- BLOG POSTS -->
 | # | Article |
 |:--|:--------|
-| 1 | 🔧 [Will Drag-and-Drop Data Pipelines Survive Production? I Built the Answer from Scratch](https://medium.com/@saisahithi2001/will-drag-and-drop-data-pipelines-survive-production-i-built-the-answer-from-scratch-b97ee09bed2a) |
-| 2 | 💡 [I Was Asked to Build a Data Pipeline on My First Week — Here Is Everything I Got Wrong First](https://medium.com/@saisahithi2001/i-was-asked-to-build-a-data-pipeline-on-my-first-week-here-is-everything-i-got-wrong-first-f557766171ad) |
-| 3 | 🧩 [The Universal Template for REST APIs](https://medium.com/@saisahithi2001/the-universal-template-for-rest-apis-4cf189e12158) |
+| 1 | 🏗️ [I Built a Production-Grade ELT Pipeline from Scratch — Here's Everything I Learned](https://medium.com/@saisahithi2001/i-built-a-production-grade-elt-pipeline-from-scratch-heres-everything-i-learned-5169b6c19e4e) |
+| 2 | 🔄 [My Incremental dbt Model Silently Dropped a Column — Here's How I Caught It](https://medium.com/@saisahithi2001/my-incremental-dbt-model-silently-dropped-a-column-heres-how-i-caught-it-and-fixed-it-without-a-dca4e83365e3) |
+| 3 | 💸 [My Pipeline Silently Lost Three Transactions — Here's How I Built a Bulletproof Fix](https://medium.com/@saisahithi2001/my-pipeline-silently-lost-three-transactions-heres-how-i-caught-it-and-built-a-bulletproof-fix-46baa8005e15) |
+| 4 | 📍 [My Analytics Were Lying About Where My Customers Lived — How I Fixed It with SCD Type 2](https://medium.com/@saisahithi2001/my-analytics-were-lying-about-where-my-customers-lived-heres-how-i-fixed-it-with-scd-type-2-4d31cb0898e4) |
+| 5 | 🔧 [Will Drag-and-Drop Data Pipelines Survive Production? I Built the Answer from Scratch](https://medium.com/@saisahithi2001/will-drag-and-drop-data-pipelines-survive-production-i-built-the-answer-from-scratch-b97ee09bed2a) |
+| 6 | 💡 [I Was Asked to Build a Data Pipeline on My First Week — Here Is Everything I Got Wrong First](https://medium.com/@saisahithi2001/i-was-asked-to-build-a-data-pipeline-on-my-first-week-here-is-everything-i-got-wrong-first-f557766171ad) |
+| 7 | 🧩 [The Universal Template for REST APIs](https://medium.com/@saisahithi2001/the-universal-template-for-rest-apis-4cf189e12158) |
 
 ---
 
